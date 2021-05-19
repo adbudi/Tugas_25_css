@@ -2,4 +2,4 @@
 
 Bootstrap Button
 
-![tugas26](screen/tugas26.png)
+![tugas25](screen/tugas25.png)
